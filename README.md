@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**Mregussek/Mregussek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Mregussek/Mregussek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+My name is Mateusz and I am C++ / Python Software Engineer, also a huge fan of :space_invader: Star Wars.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: Currently working on:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mregussek&repo=MAREngine)](https://github.com/anuraghazra/github-readme-stats)
+
+- :microscope: Now studying 3D graphics, Machine Learning, Computer Networks and Software Testing.
+
+### Technologies / Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mregussek)](https://github.com/anuraghazra/github-readme-stats)
