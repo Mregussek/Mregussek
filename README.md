@@ -6,14 +6,10 @@ My name is Mateusz and I am C++ / Python Software Engineer, also a huge fan of :
 
 - :computer: Currently working on:
 
-<p align="center">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mregussek&repo=MAREngine&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 - :microscope: Now studying 3D graphics, Machine Learning, Computer Networks and Software Testing.
 
 ### Technologies / Tools
 
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mregussek&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
