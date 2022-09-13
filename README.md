@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h2 align="center"> Hello There </h2>
+<h1 align="center"> Hello There </h1>
 
 My name is Mateusz and I mainly focus on C++ / Python software engineering. My primary interests are:
 
@@ -18,19 +18,15 @@ My name is Mateusz and I mainly focus on C++ / Python software engineering. My p
 
 Privately I am huge fan of Star Wars.
 
-<h2 align="center"> Projects </h2>
+<h1 align="center"> Projects </h1>
 
-<h3> Currently working on: </h3>
+<h2> Currently working on: </h2>
 
 1. UncannyEngine, which will be educational 3D game engine based on Vulkan with ray tracing features. It will be used as my master's thesis project:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mregussek&repo=UncannyEngine&theme=vision-friendly-dark)](https://github.com/Mregussek/UncannyEngine)
 
-<h3> Finished projects </h3>
+<h2> Finished projects </h2>
 
 1. Ray-Traced Images Renderer based on CUDA library:
 
@@ -49,7 +45,7 @@ Privately I am huge fan of Star Wars.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mregussek&repo=visualizing_object_rotation&theme=vision-friendly-dark)](https://github.com/Mregussek/visualizing_object_rotation)
 
-<h2 align="center"> Technologies / Tools</h2>
+<h1 align="center"> Technologies / Tools</h1>
 
 <p align="center">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
