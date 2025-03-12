@@ -23,7 +23,7 @@
     </div>
 </div>
 
-<h1 align="center" style="padding-top: 30px">
+<h1 align="center" style="padding-top: 50px">
   Hello There
   <img src="resources/Hi.gif" width="32" />
 </h1>
