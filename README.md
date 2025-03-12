@@ -3,22 +3,22 @@
 <div style="display: flex; gap: 20px; justify-content: center; text-align: center;">
     <div>
       <a href="https://www.mateuszrzeczyca.pl">
-        <img height="32" align="left" alt="Blog" src="resources/MR_logo.png"/>
+        <img height="32" align="center" alt="Blog" src="resources/MR_logo.png"/>
       </a>
     </div>
     <div>
       <a href="https://www.instagram.com/matty_coding/">
-        <img height="32" align="left" alt="Instagram" src="resources/instagram.png"/>
+        <img height="32" align="center" alt="Instagram" src="resources/instagram.png"/>
       </a>
     </div>
     <div>
       <a href="https://www.linkedin.com/in/mateusz-rzeczyca/">
-        <img height="32" align="left" alt="LinkedIn" src="resources/linkedin.png"/>
+        <img height="32" align="center" alt="LinkedIn" src="resources/linkedin.png"/>
       </a>
     </div>
     <div>
       <a href="https://x.com/matty_coding">
-        <img height="32" align="left" alt="X" src="resources/x.png"/>
+        <img height="32" align="center" alt="X" src="resources/x.png"/>
       </a>
     </div>
 </div>
